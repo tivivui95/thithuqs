@@ -1,0 +1,11 @@
+.timer{
+  display: inline-block;
+  padding: 12px;
+  background: cadetblue;
+  color : white;
+  border-radius :10px; 
+}
+.countdown{
+  text-align: center;
+  margin: 10px 0 10px;
+}
