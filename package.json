@@ -2,7 +2,7 @@
   "name": "thithuqs-remastered",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tivivui95.github.io/quansu2021",
+  "homepage": "https://tivivui95.github.io/thithuqs",
   "dependencies": {
     "@material-ui/core": "^1.4.0",
     "@material-ui/icons": "^1.1.0",
